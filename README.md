@@ -122,13 +122,28 @@ Open dashboard at:
 
 ## Dashboard Preview (Important for Recruiters)
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
-![Dashboard Insights](screenshots/dashboard-insights.png)
+### Full Dashboard
 
-If images are not visible yet, add these files in the `screenshots` folder:
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### KPI + Low Stock Panel
+
+![KPI and Low Stock](screenshots/dashboard-kpi-low-stock.png)
+
+### Store Insights Panel
+
+![Stores Attention and Stock](screenshots/dashboard-store-insights.png)
+
+### Product Insights Panel
+
+![Product Distribution and Performance](screenshots/dashboard-product-insights.png)
+
+If any image is not visible yet, add these files in the `screenshots` folder:
 
 - `screenshots/dashboard-overview.png`
-- `screenshots/dashboard-insights.png`
+- `screenshots/dashboard-kpi-low-stock.png`
+- `screenshots/dashboard-store-insights.png`
+- `screenshots/dashboard-product-insights.png`
 
 ## Suggested GitHub Repository Settings
 

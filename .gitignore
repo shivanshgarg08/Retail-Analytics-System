@@ -1,0 +1,20 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Local database and logs
+retail.db
+*.db
+*.sqlite3
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db

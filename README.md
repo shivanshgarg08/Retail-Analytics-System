@@ -122,20 +122,13 @@ Open dashboard at:
 
 ## Dashboard Preview (Important for Recruiters)
 
-Add screenshots so visitors can immediately see your UI without running the code.
+![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Insights](screenshots/dashboard-insights.png)
 
-Recommended files:
+If images are not visible yet, add these files in the `screenshots` folder:
 
 - `screenshots/dashboard-overview.png`
 - `screenshots/dashboard-insights.png`
-
-Then embed them in this README:
-
-```markdown
-## Dashboard Preview
-![Dashboard Overview](screenshots/dashboard-overview.png)
-![Dashboard Insights](screenshots/dashboard-insights.png)
-```
 
 ## Suggested GitHub Repository Settings
 
